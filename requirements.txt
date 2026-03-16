@@ -1,0 +1,14 @@
+langchain 
+langchain-google-genai
+pandas 
+numpy 
+sqlalchemy 
+requests 
+aiohttp
+uvicorn
+openpyxl 
+fastapi 
+streamlit
+pyodbc 
+python-dotenv
+python-multipart
