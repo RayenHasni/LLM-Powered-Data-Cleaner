@@ -70,7 +70,7 @@ streamlit run app/app.py
 
 ## UI Preview
 
-(app/UI.png)
+![Streamlit App](app/UI.png)
 
 The sidebar lets you choose the cleaning source:
 
