@@ -117,14 +117,12 @@ Add `--with-ai` to any mode.
 python scripts/main.py --source file --path data/data.csv --with-ai
 ```
 
-## Notes
-
-- Response rows are JSON-safe (`NaN` values are converted to `null`).
-- Current deterministic cleaning step removes duplicate rows.
-- AI output is returned as `ai_summary` and does not block deterministic cleaning.
-
 ## Next Improvements
 
 - Add column-level cleaning strategy config (missing values/outliers/type coercion).
 - Add automated tests for `clean-data`, `clean-api`, and `clean-db` endpoints.
 - Add write-back option to SQL Server for cleaned tables.
+
+## License
+
+This project is licensed under the [Apache License 2.0](LICENSE). You are free to use, modify, and share this project with proper attribution.
