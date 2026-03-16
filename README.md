@@ -68,6 +68,10 @@ Backend endpoints:
 streamlit run app/app.py
 ```
 
+## UI Preview
+
+(app/UI.png)
+
 The sidebar lets you choose the cleaning source:
 
 - `FILE`
